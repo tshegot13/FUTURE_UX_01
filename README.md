@@ -1,7 +1,6 @@
-# FUTURE_UX_01 – Website Redesign
+# Website Redesign
 
 ## Project Overview
-This project is part of the UI/UX Design Internship with Future Interns.  
 The task involved redesigning a local service business website with a strong focus on improving user experience, visual hierarchy, and conversion optimization.
 
 For this project, I redesigned the website of Conditioned Hairdressing, a premium hair salon located in Midrand, South Africa.
